@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1663348273 source:c:\users\y520\desktop\programming\obiektowoœæ\src\zwierze.cpp
+	"Zwierze.h"
+
+1663350254 c:\users\y520\desktop\programming\obiektowoœæ\include\zwierze.h
+	<iostream>
+
+1663350629 source:c:\users\y520\desktop\programming\obiektowoœæ\main.cpp
+	<iostream>
+	<Zwierze.h>
+	<Ptak.h>
+	<Ssak.h>
+
+1663350786 source:c:\users\y520\desktop\programming\obiektowoœæ\src\ptak.cpp
+	"Ptak.h"
+	<iostream>
+
+1663350243 c:\users\y520\desktop\programming\obiektowoœæ\include\ptak.h
+	<Zwierze.h>
+	<iostream>
+
+1663350786 source:c:\users\y520\desktop\programming\obiektowoœæ\src\ssak.cpp
+	"Ssak.h"
+
+1663350472 c:\users\y520\desktop\programming\obiektowoœæ\include\ssak.h
+	<Zwierze.h>
+
