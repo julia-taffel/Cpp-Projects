@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1667559763 source:c:\users\y520\desktop\programming\kontener wojna\main.cpp
+	<iostream>
+	<list>
+	<algorithm>
+	<time.h>
+
