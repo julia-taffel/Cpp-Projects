@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1664472000 source:c:\users\y520\desktop\programming\cars\src\tkabriolet.cpp
+	"TKabriolet.h"
+
+1664469014 c:\users\y520\desktop\programming\cars\include\tkabriolet.h
+	<Tsamochod.h>
+
+1664470244 c:\users\y520\desktop\programming\cars\include\tsamochod.h
+	<iostream>
+
+1666288609 source:c:\users\y520\desktop\programming\cars\main.cpp
+	<iostream>
+	<Tsamochod.h>
+	<TKabriolet.h>
+	<algorithm>
+	<list>
+
+1664472000 source:c:\users\y520\desktop\programming\cars\src\tsamochod.cpp
+	"Tsamochod.h"
+	<iostream>
+
